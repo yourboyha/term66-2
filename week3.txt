@@ -7,3 +7,18 @@
 7. สร้างไฟล์ LinkExample.html
 8. ลิ้งไปยังไฟล์ LinkExample.html
 ด้วยการใส่ข้อความ LinkExample.html ภายใน href
+9.ไปที่ไฟล์ LinkExample.html
+10.สร้างหัวข้อ h1 
+ตัวอย่างการใช้งาน Tag a 
+11.ใส่ข้อความ Lorem100 พร้อมด้วย tag p
+12.สร้าง tag a บริเวณด้านบนของ tag h1
+ด้วยข้อความกลับหน้าหลัก 
+href="week3Link.html"
+13. สร้างโฟลเดอร์ pages
+14. ภายในโฟลเดอร์ pages สร้างไฟล์  dashboard.html และ  about.html
+
+
+
+
+
+
