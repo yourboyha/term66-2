@@ -1,0 +1,9 @@
+1. สร้างไฟล์ week3Link.html
+2. เขียนคำสั่ง html:5
+3. สร้างหัวข้อ h1 
+4. สร้างหัวข้อ h3
+5. เขียนบทความด้วย tag p
+6. สร้าง Link ด้วย tag a 
+7. สร้างไฟล์ LinkExample.html
+8. ลิ้งไปยังไฟล์ LinkExample.html
+ด้วยการใส่ข้อความ LinkExample.html ภายใน href
