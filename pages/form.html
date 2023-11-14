@@ -7,7 +7,7 @@
 </head>
 <body>
   <h1>Input Form</h1>
-  <form action="#">
+  <form action="submit.php" method="post">
     <table>
     <tr>
       <td><label for="username">Username: </label></td>
@@ -35,18 +35,18 @@
     <tr>
       <td><label for="role">Please specify your role: </label></td>
       <td>
-        <input type="radio" name="role" id="admin">Admin <br>
-        <input type="radio" name="role" id="engineer">Engineer<br>
-        <input type="radio" name="role" id="manager">Manager<br>
-        <input type="radio" name="role" id="guest">Guest
+        <input type="radio" name="role" id="admin" value="Admin">Admin <br>
+        <input type="radio" name="role" id="engineer" value="Engineer">Engineer<br>
+        <input type="radio" name="role" id="manager" value="Manager">Manager<br>
+        <input type="radio" name="role" id="guest" value="Guest">Guest
       </td>
     </tr>
     <tr>
       <td><label for="sign">Single Sign-on to the following: </label></td>
       <td>
-        <input type="checkbox" name="sign" id="mail">Mail<br>
-        <input type="checkbox" name="sign" id="payroll">Payroll<br>
-        <input type="checkbox" name="sign" id="selfservice">Self-service<br>
+        <input type="checkbox" name="sign1" id="mail" value="Mail">Mail<br>
+        <input type="checkbox" name="sign2" id="payroll" value="Payroll">Payroll<br>
+        <input type="checkbox" name="sign3" id="selfservice" value="Self-service">Self-service<br>
       </td>
     </tr>
     <tr>
